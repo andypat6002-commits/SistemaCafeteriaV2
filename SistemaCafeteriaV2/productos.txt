@@ -1,0 +1,4 @@
+PO1;Cafe;1.25;5
+P01;Cafe;1.0;20
+P02;Sanduche;2.5;10
+P03;Jugo;1.25;4
